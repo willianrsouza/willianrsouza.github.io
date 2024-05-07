@@ -7,7 +7,7 @@ title: "Willian Souza"
 subtitle: ""
 email: willianrsouzawork@gmail.com
 description: >-
-  Olá! Sou o Willian e estou atualmente me dedicando à especialização em Inteligência Artificial na PUC Minas.
+  Atualmente estou me especializando em Inteligência Artificial na Pontifícia Universidade Católica de Minas Gerais.
 words_per_minute: 200
 search: true
 search_full_content: true
@@ -38,10 +38,10 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name: "Jake Tae"
-  avatar: "/assets/images/Photo.jpg"
-  bio: "An aspiring mathematician and data scientist. Fan of tech, soccer, guitar, and food."
-  location: "Seoul, KOR"
+  name: "Willian Souza"
+  avatar: "/assets/images/Photo.png"
+  bio: "Tentando resolver problemas do universo usando Inteligência Artificial."
+  location: "Belo Horizonte, MG"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
