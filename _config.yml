@@ -1,0 +1,92 @@
+remote_theme: "mmistakes/minimal-mistakes@4.19.3"
+
+minimal_mistakes_skin: "default"
+minimal_mistakes_skin2: "dark"
+
+title: "Willian Souza"
+subtitle: ""
+email: willianrsouzawork@gmail.com
+description: >-
+  Olá! Sou o Willian e estou atualmente me dedicando à especialização em Inteligência Artificial na PUC Minas.
+words_per_minute: 200
+search: true
+search_full_content: true
+
+github_username: willianrsouza
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  html_to_native: true
+
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+  - _portfolio
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-seo-tag
+
+author:
+  name: "Jake Tae"
+  avatar: "/assets/images/Photo.jpg"
+  bio: "An aspiring mathematician and data scientist. Fan of tech, soccer, guitar, and food."
+  location: "Seoul, KOR"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:willianrsouzawork@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/willianrsouza"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/willianrsouza/"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/willianrsouza"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/willianrsouza/"
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
