@@ -5,11 +5,14 @@ title: "WASSUP?!"
 author_profile: true
 ---
 
-:wave: Seja bem-vindo à minha mente! Meu nome é Willian Souza, atualmente estou me dedicando à especialização em Inteligência Artificial na Pontifícia Universidade Católica de Minas Gerais.
+"Eu acredito que às vezes são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar." - Alan Turing
 
-Um evento que transformou minha vida foi ter tido a oportunidade de ingressar na universidade. Apesar de ter exemplos inspiradores em meus tios, verdadeiros heróis que transformaram suas vidas através do estudo, para mim, a faculdade sempre foi um sonho distante e desafiador. Se há certamente nessas fronteiras da vida espaços sociais de circulação, de fluxos e trocas além da economia, existem também a construção de muros invisiveis que, por sua presença difusa as vezes encoberta, são muito mais dificeis de serem demolidos. Meu objetivo de vida é me tornar professor, compartilhar conhecimento, capacitando crianças e adolescentes que vêm de ambientes onde a luz do saber é ofuscada pela persiana da ignorancia, acredito sinceramente nisso.
+Meu nome é Willian, atualmente estou me dedicando à especialização em Inteligência Artificial na Pontifícia Universidade Católica de Minas Gerais.
 
-Jogo Favorito: Skiro Sekiro - Shadows Die Twice
-Poeta Favorito: Manoel de Barros
-Música Favorita: "Die Hard - Mr. Morale & The Big Steppers"
-Filme Favorito: "Minari - Lee Isaac Chung"
+Um momento significativo que marcou profundamente minha jornada foi a oportunidade de ingressar na universidade. Mesmo tendo exemplos inspiradores em meus tios, verdadeiros heróis que moldaram seus destinos através da educação, para mim, o ambiente acadêmico sempre pareceu um horizonte distante e desafiador. Se há certamente nessas fronteiras da vida espaços sociais de circulação, de fluxos e trocas além da economia, existem também a construção de muros invisiveis que, por sua presença difusa as vezes encoberta, são muito mais dificeis de serem demolidos. Meu objetivo de vida é adquirir conhecimento, compreender melhor a vida e compartilhar conhecimento, capacitando crianças e adolescentes que vêm de ambientes onde a luz do saber é ofuscada pela persiana da ganância exacerbada, acredito sinceramente nisso. Espero te inspirar e espero me inspirar em você!
+
+| Poeta Favorito: Manoel de Barros
+| Música Favorita: "Die Hard" - Mr. Morale & The Big Steppers
+| Filme Favorito: "Minari - Lee Isaac Chung"
+| Livro Favorito: "Metamorfose" - Franz Kafka
+| Jogo Favorito: Skiro Sekiro - Shadows Die Twice
