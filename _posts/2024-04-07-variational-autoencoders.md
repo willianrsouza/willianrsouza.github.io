@@ -154,4 +154,4 @@ for i in range(5):
 
 # Results
 
-![generation](/assets/posts/images/2024-04-07-variational-autoencoders/first-generation.png)
+![first](image.png)
