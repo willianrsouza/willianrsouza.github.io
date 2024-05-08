@@ -154,4 +154,7 @@ for i in range(5):
 
 # Results
 
-![first](image.png)
+<figure>
+	<img src="/image.png">
+	<figcaption>Figure 1: Imagem Gerada pelo Modelo</figcaption>
+</figure>
