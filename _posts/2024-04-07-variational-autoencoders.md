@@ -1,13 +1,13 @@
 ---
-title: Neural Network Scratch
+title: Variational Autoencoders (VAEs)
 mathjax: true
 toc: true
 categories:
-  - scratch
+  - generative
 tags:
   - deep_learning
-  - computer_vision
-  - scratch
+  - generative
+  - pytorch
 ---
 
 # Introduction
