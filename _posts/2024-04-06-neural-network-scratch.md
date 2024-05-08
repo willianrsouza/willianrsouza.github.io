@@ -3,7 +3,7 @@ title: Neural Network Scratch
 mathjax: true
 toc: true
 categories:
-  - study
+  - scratch
 tags:
   - deep_learning
   - computer_vision
