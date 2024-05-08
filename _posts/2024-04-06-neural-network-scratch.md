@@ -7,7 +7,7 @@ categories:
 tags:
   - deep_learning
   - computer_vision
-  - from_scratch
+  - scratch
 ---
 
 # Setup
