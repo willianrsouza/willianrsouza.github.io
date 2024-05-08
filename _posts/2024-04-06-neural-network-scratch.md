@@ -104,7 +104,6 @@ class DoomNet:
                 print("Iteration: ", i, " - Accuracy: ", acc)
 
         return W1, b1, W2, b2
-
 ```
 
 # Loading Data
@@ -128,7 +127,7 @@ X_train = X_train.astype('float32') / 255
 X_test = X_test.astype('float32') / 255
 ```
 
-### Training and Predict
+# Training and Predict
 
 ```python
 model = DoomNet(784, 20, 10)
